@@ -1,6 +1,5 @@
-# try_supabase
-Supabase with Codespace
+# Supabase with Github Codespaces
 
-Trying to follow https://supabase.com/docs/guides/cli/cicd-workflow with the dev environment created inside Codespaces
+This project creates a Supabase development environment (with all the services) on Github Codespaces start.
 
-Run `npx supabase start` to start the dev environment. A database comes with this.
+Many of the docker files have been ripped from here: https://github.com/supabase/supabase/tree/1b2632dd002719e00edc85133cf0461b1aa68b66/docker
